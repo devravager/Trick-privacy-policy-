@@ -1,10 +1,10 @@
-Welcome to Levix. By using this bot, you agree to comply with and be bound by the following Terms of Service. If you disagree with any part of the terms, you may not use the bot.
+Welcome to Trick. By using this bot, you agree to comply with and be bound by the following Terms of Service. If you disagree with any part of the terms, you may not use the bot.
 
 We reserve the right to update or modify these terms at any time without prior notice. You are responsible for reviewing the terms regularly.
 
 📌 General Terms
 
-The owner of Levix is committed to providing a safe, efficient, and useful service.
+The owner of Trick is committed to providing a safe, efficient, and useful service.
 We reserve the right to update the bot, modify or remove features, or restrict access at any time for any reason.
 We may introduce paid services in the future; users will be notified clearly if charges apply.
 
@@ -36,7 +36,7 @@ All setup actions (like custom welcome messages or anti-nuke config) must be don
 
 ❗ Misuse & Abuse
 
-You may not use Levix to:
+You may not use Trick to:
 
 Send unsolicited or spam messages.
 
@@ -53,7 +53,7 @@ Submit false reports or misuse support services.
 Run automation or self-bots using Levix’s API or commands.
 
 
-Servers using Levix in ways that break Discord's rules or our own will be blacklisted and banned from using the service.
+Servers using Trick in ways that break Discord's rules or our own will be blacklisted and banned from using the service.
 
 ⚙️ Automation & Bot Access
 
@@ -79,4 +79,4 @@ For data handling practices, please see the Levix Privacy Policy.
 
 If you need help, report abuse, or request assistance, please contact us via our support server:
 
-👉 Levix Support Server = https://discord.gg/levixhq
+👉 Levix Support Server = https://discord.gg/ronix
