@@ -12,7 +12,7 @@ We may introduce paid services in the future; users will be notified clearly if 
 
 You may not:
 
-Copy, decompile, modify, or reverse engineer Levix or any of its features.
+Copy, decompile, modify, or reverse engineer Trick or any of its features.
 
 Extract the source code or attempt to create derivative versions of the bot.
 
@@ -29,7 +29,7 @@ You must not use NSFW or offensive content in welcome images, embeds, or message
 
 Server owners and administrators are solely responsible for setting up and monitoring the bot’s behavior.
 
-It is your responsibility to ensure that other server members do not misuse Levix's functionality.
+It is your responsibility to ensure that other server members do not misuse Trick's functionality.
 
 All setup actions (like custom welcome messages or anti-nuke config) must be done properly. Improper setup resulting in abuse is the responsibility of the server's management.
 
@@ -59,7 +59,7 @@ Servers using Trick in ways that break Discord's rules or our own will be blackl
 
 You may not:
 
-Attempt to bypass any limits or security measures built into Levix.
+Attempt to bypass any limits or security measures built into Trick.
 
 Use unauthorized automation or scripts with Levix.
 
@@ -68,7 +68,7 @@ Frame or embed bot responses outside of Discord in an unauthorized manner.
 
 ⚖️ Liability
 
-Levix operates under the control of its developers, but any actions performed by the bot in your server (like message deletion, banning, kicking, etc.) are considered your responsibility as the server owner or administrator.
+Trick operates under the control of its developers, but any actions performed by the bot in your server (like message deletion, banning, kicking, etc.) are considered your responsibility as the server owner or administrator.
 We do not accept liability for misuse caused by incorrect configuration or failure to restrict access.
 
 🗑 Data & Privacy
@@ -79,4 +79,4 @@ For data handling practices, please see the Levix Privacy Policy.
 
 If you need help, report abuse, or request assistance, please contact us via our support server:
 
-👉 Levix Support Server = https://discord.gg/ronix
+👉 Trick Support Server = https://discord.gg/ronix
