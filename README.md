@@ -16,7 +16,7 @@ Copy, decompile, modify, or reverse engineer Trick or any of its features.
 
 Extract the source code or attempt to create derivative versions of the bot.
 
-Modify any trademarks, copyrights, or intellectual property associated with Levix.
+Modify any trademarks, copyrights, or intellectual property associated with Trick.
 
 
 All intellectual property rights remain with the creators of Levix.
