@@ -1,10 +1,10 @@
-Welcome to Trick. By using this bot, you agree to comply with and be bound by the following Terms of Service. If you disagree with any part of the terms, you may not use the bot.
+Welcome to Vortex. By using this bot, you agree to comply with and be bound by the following Terms of Service. If you disagree with any part of the terms, you may not use the bot.
 
 We reserve the right to update or modify these terms at any time without prior notice. You are responsible for reviewing the terms regularly.
 
 📌 General Terms
 
-The owner of Trick is committed to providing a safe, efficient, and useful service.
+The owner of Vortex is committed to providing a safe, efficient, and useful service.
 We reserve the right to update the bot, modify or remove features, or restrict access at any time for any reason.
 We may introduce paid services in the future; users will be notified clearly if charges apply.
 
@@ -12,7 +12,7 @@ We may introduce paid services in the future; users will be notified clearly if 
 
 You may not:
 
-Copy, decompile, modify, or reverse engineer Trick or any of its features.
+Copy, decompile, modify, or reverse engineer Vortex or any of its features.
 
 Extract the source code or attempt to create derivative versions of the bot.
 
@@ -23,13 +23,13 @@ All intellectual property rights remain with the creators of Levix.
 
 📬 Message System & Usage
 
-Trick includes features such as welcome messages, embeds, image banners, and automated messages. Therefore:
+Vortex includes features such as welcome messages, embeds, image banners, and automated messages. Therefore:
 
 You must not use NSFW or offensive content in welcome images, embeds, or message systems.
 
 Server owners and administrators are solely responsible for setting up and monitoring the bot’s behavior.
 
-It is your responsibility to ensure that other server members do not misuse Levix's functionality.
+It is your responsibility to ensure that other server members do not misuse Vortex's functionality.
 
 All setup actions (like custom welcome messages or anti-nuke config) must be done properly. Improper setup resulting in abuse is the responsibility of the server's management.
 
@@ -53,7 +53,7 @@ Submit false reports or misuse support services.
 Run automation or self-bots using Trick’s API or commands.
 
 
-Servers using Trick in ways that break Discord's rules or our own will be blacklisted and banned from using the service.
+Servers using Vortex in ways that break Discord's rules or our own will be blacklisted and banned from using the service.
 
 ⚙️ Automation & Bot Access
 
@@ -68,12 +68,12 @@ Frame or embed bot responses outside of Discord in an unauthorized manner.
 
 ⚖️ Liability
 
-Trick operates under the control of its developers, but any actions performed by the bot in your server (like message deletion, banning, kicking, etc.) are considered your responsibility as the server owner or administrator.
+Vortex operates under the control of its developers, but any actions performed by the bot in your server (like message deletion, banning, kicking, etc.) are considered your responsibility as the server owner or administrator.
 We do not accept liability for misuse caused by incorrect configuration or failure to restrict access.
 
 🗑 Data & Privacy
 
-For data handling practices, please see the Levix Privacy Policy.
+For data handling practices, please see the Vortex Privacy Policy.
 
 📞 Contact & Support
 
