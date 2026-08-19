@@ -36,7 +36,7 @@ All setup actions (like custom welcome messages or anti-nuke config) must be don
 
 ❗ Misuse & Abuse
 
-You may not use Trick to:
+You may not use Vortex to:
 
 Send unsolicited or spam messages.
 
@@ -59,9 +59,9 @@ Servers using Vortex in ways that break Discord's rules or our own will be black
 
 You may not:
 
-Attempt to bypass any limits or security measures built into Levix.
+Attempt to bypass any limits or security measures built into Vortex.
 
-Use unauthorized automation or scripts with Trick.
+Use unauthorized automation or scripts with Vortex.
 
 Frame or embed bot responses outside of Discord in an unauthorized manner.
 
@@ -79,4 +79,4 @@ For data handling practices, please see the Vortex Privacy Policy.
 
 If you need help, report abuse, or request assistance, please contact us via our support server:
 
-👉 Trick Support Server = https://discord.gg/ronix
+👉 Trick Support Server = https://discord.gg/UeFXEAYDJj
